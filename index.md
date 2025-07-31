@@ -1,3 +1,7 @@
+---
+title: Strutly Policies
+---
+
 # Privacy Policy
 
 **Effective Date: July 31, 2025**
